@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 /**
  * @license
- * Copyright 2025 Intelligent-Internet / Miguel de Sousa Batista
+ * Copyright 2026 Jose Naranjo <hello@josenaranjo.dev>
+ * Copyright 2025 Intelligent-Internet
  * SPDX-License-Identifier: Apache-2.0
  */
 import {

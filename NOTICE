@@ -27,7 +27,12 @@ limitations under the License.
 ---
 
 This derivative work (gemini-cli-openai-bridge) is developed by
-Intelligent-Internet / Miguel de Sousa Batista and is also licensed under the Apache License 2.0.
+Jose Naranjo <hello@josenaranjo.dev> and is also licensed under the Apache License 2.0.
+
+Copyright 2026 Jose Naranjo <hello@josenaranjo.dev>
+
+The project incorporates prior work from Intelligent-Internet, which retains
+the following copyright notice:
 
 Copyright 2025 Intelligent-Internet
 

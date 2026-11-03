@@ -16,7 +16,7 @@
     "url": "https://github.com/msb7-jpg/gemini-cli-openai-bridge/issues"
   },
   "homepage": "https://github.com/msb7-jpg/gemini-cli-openai-bridge#readme",
-  "author": "Miguel de Sousa Batista",
+  "author": "Jose Naranjo <hello@josenaranjo.dev>",
   "license": "Apache-2.0",
   "keywords": [
     "gemini",

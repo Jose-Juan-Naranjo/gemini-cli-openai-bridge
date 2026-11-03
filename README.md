@@ -263,6 +263,7 @@ npm run publish:bridge-server
 
 ## 📄 License & Attribution
 
+- Author: Jose Naranjo <hello@josenaranjo.dev>
 - Licensed under [Apache-2.0](LICENSE).
 - Core execution engine and authentication: [Google Gemini CLI](https://github.com/google-gemini/gemini-cli) (Copyright Google LLC).
 - Architectural foundation: inspired by the archived [`Intelligent-Internet/gemini-cli-mcp-openai-bridge`](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge) (Copyright 2025 Intelligent-Internet).

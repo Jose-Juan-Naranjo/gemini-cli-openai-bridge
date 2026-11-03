@@ -1,7 +1,7 @@
 # Relatório Técnico: Integração e Adaptações do Gemini Bridge com OpenCode
 
 **Data:** 03 de Novembro de 2026  
-**Autor:** Miguel de Sousa Batista  
+**Autor:** Jose Naranjo <hello@josenaranjo.dev>  
 **Repositório:** `gemini-cli-mcp-openai-bridge`  
 **Versão:** `v0.1.15`  
 
